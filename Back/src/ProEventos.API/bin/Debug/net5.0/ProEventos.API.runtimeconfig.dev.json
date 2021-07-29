@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\djalm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\djalm\\.nuget\\packages"
+    ]
+  }
+}
