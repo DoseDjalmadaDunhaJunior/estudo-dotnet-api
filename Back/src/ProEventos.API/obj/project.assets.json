@@ -1298,11 +1298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\CiaCard\\vsCode\\projeto2\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "D:\\CiaCard\\vsCode\\projeto2\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "d:\\CiaCard\\vsCode\\projeto2\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectPath": "D:\\CiaCard\\vsCode\\projeto2\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "packagesPath": "C:\\Users\\djalm\\.nuget\\packages\\",
-      "outputPath": "d:\\CiaCard\\vsCode\\projeto2\\Back\\src\\ProEventos.API\\obj\\",
+      "outputPath": "D:\\CiaCard\\vsCode\\projeto2\\Back\\src\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\djalm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1312,6 +1312,7 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
